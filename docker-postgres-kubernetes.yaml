@@ -66,4 +66,4 @@ metadata:
   namespace: default
 type: Opaque
 data:
-  POSTGRES_PASSWORD: cG9zdGdyZXNfcGFzc3dvcmQ= # Base64 encoded password (e.g., 'postgres_password')
+  POSTGRES_PASSWORD: cG9zdGdyZXNfcGFzc3dvcmQ=
